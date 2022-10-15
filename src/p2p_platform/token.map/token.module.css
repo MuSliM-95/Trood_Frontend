@@ -1,0 +1,49 @@
+
+.bloc_1 {
+height: 4vw;
+background-color:rgba(26, 128, 0, 0.042);
+;
+
+}
+.bloc_2 {
+height: 4vw;
+background-color: rgba(255, 20, 235, 0.045);
+
+}
+
+
+.image {
+    width: 1vw;
+    margin-left: 1vw;
+    
+} 
+
+
+.bey {
+    border-radius: 6px;
+    color: deeppink;
+    cursor: pointer;
+    border-color:darkmagenta;
+}
+.bey:hover {
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+    background-color: deeppink;
+}
+
+.sold {
+    border-radius: 6px;
+    color: deeppink;
+    cursor: pointer;
+    border-color:darkmagenta;
+    opacity: 0.2;
+}
+.sold:hover {
+    border-radius: 6px;
+    color: deeppink;
+    cursor: not-allowed;
+    border-color:red;
+    opacity: 0.6;
+    
+}

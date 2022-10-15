@@ -1,0 +1,64 @@
+.tableConteyner {
+     display: flex; 
+     justify-content: center;
+   margin-top: 5vw; 
+
+}
+
+.header {
+   
+    opacity: 0.6; 
+    
+  
+}
+
+ .header_blokc {
+    display: flex;
+    justify-content: space-evenly;
+    width: 6vw;
+    font-size: 0.7vw;
+}
+
+.arrow_to_down {
+    width: 1vw;
+    height: 1vw;
+    margin-top: 0.7vw;
+    cursor: pointer;
+}
+
+.arrow {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.arrow_down_and_up {
+    width: 0.5vw;
+    height: 0.5vw;
+   
+}
+
+.all {
+    width: 1.3vw;
+    border: solid 1px; 
+    border-radius: 3px;
+    background-color: grey;
+    border: none;
+} 
+
+.status_windows {
+    position: absolute;
+    margin-top: 2vw;
+    box-shadow: 2px 2px 2px 2px black;
+    background-color: black;
+    width: 6vw;
+    font-size: 15px;
+    color: white;
+    
+}
+
+.searchCompanent {
+    position: absolute;
+    margin-top: 2vw;
+    margin-left: 2.5vw;
+}

@@ -1,0 +1,10 @@
+.image {
+    width: 1vw;
+    margin-left: 1vw;
+    
+} 
+
+.status {
+    display: flex;
+    cursor: pointer;
+}
